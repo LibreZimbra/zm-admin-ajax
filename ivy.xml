@@ -16,6 +16,7 @@
 	<dependency org="rhino" name="js" rev="1.6R7"/>
 	<dependency org="org.freemarker" name="freemarker" rev="2.3.19"/>
 	<dependency org="gifencoder" name="gifencoder" rev="0.9" />
+	<dependency org="javax.xml.bind" name="jaxb-api" rev="2.2.6"/>
 	<dependency org="zimbra" name="zm-common" rev="latest.integration" />
 	<dependency org="zimbra" name="zm-client" rev="latest.integration" />
 	<dependency org="zimbra" name="zm-store" rev="latest.integration" />
